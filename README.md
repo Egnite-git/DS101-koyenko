@@ -15,6 +15,6 @@ The course will offer you hands-on experience with the data science project. Thi
 If you are stuck anywhere in any of the levels, you’ll be provided with Buddy assistance which includes interacting with industry SMEs to clarify your questions.
 At the end of the course, you'll be able to demonstrate your technical abilities in handling big data, conducting sentiment analysis and deriving business insights for enterprises.
 
-Click ``Issues in DS101-koyenko repository`` to switch to table view or see a single department.
+Click ``Issues`` to switch to table view or see a single department.
 
 *Each issue is a part of the milestone. Close all the issues within a milestone to complete it. Each of the milestone has an attached due date. This due date is a reminder to help you stay on track. However we understand that not everyone learns at the same pace, this deadline is flexible and you can complete the project at your own pace.*
