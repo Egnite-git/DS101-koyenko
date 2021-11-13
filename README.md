@@ -19,6 +19,6 @@ Click ``Issues`` to switch to table view or see a single department.
 
 *Each issue is a part of the milestone. Close all the issues within a milestone to complete it. Each of the milestone has an attached due date. This due date is a reminder to help you stay on track. However we understand that not everyone learns at the same pace, this deadline is flexible and you can complete the project at your own pace.*
 
-#Badges
+# Badges
 
-<img src="https://badgen.net/badge/Welcome/to%20Egnite/6666ff?icon=kofi" width="50" height="50" alt = "Welcome to Egnite"/> 
+<img src="https://badgen.net/badge/Welcome/to%20Egnite/6666ff?icon=kofi" alt = "Welcome to Egnite"/> 
