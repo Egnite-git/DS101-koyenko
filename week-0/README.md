@@ -37,6 +37,7 @@ Django is one of top web framework written in python to support the connection b
 - Under the file HELLO.md, add your name.
 - After making changes create a Pull Request(PR)
 - Make sure you ping in the Discord channel/ ```Discussions``` tab and maintainers would approve your PR and close the linked issue!
+- Reference [video](https://www.youtube.com/watch?v=HbSjyU2vf6Y)
 
 Now you are all set and ready for Week - 1
 
