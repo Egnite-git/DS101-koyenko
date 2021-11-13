@@ -22,3 +22,19 @@ Click ``Issues`` to switch to table view or see a single department.
 # Badges
 
 <img src="https://badgen.net/badge/Welcome/to%20Egnite/6666ff?icon=kofi" alt = "Welcome to Egnite"/> 
+
+# Project
+
+The repository contains folders for each week :
+- Week 0
+- Week 1
+
+Each of these folders have their separate README files describing the tasks to be accomplished as a part of the week. You are required to close issues pertaining to each week starting Week - 0.
+
+Make sure you check out **BADGES.md**. It describes the rules on how to win badges for your repositories.
+
+All the repositories are public and made with an intention to help you make your online profile. To add any changes to the repository, raise a ```Pull Request```. Refer Week 0 - Part 0.2 : Setup Git
+
+Click ```Issues``` to switch to table view or see a single department.
+
+Each issue is a part of the milestone. You are required to close all the issues within a milestone to complete it. Each of the milestone has an attached due date. This due date is a reminder to help you stay on track. However we understand that not everyone learns at the same pace, this deadline is flexible and you can complete the project at your own pace.
