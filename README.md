@@ -22,8 +22,8 @@ Click ``Issues`` to switch to table view or see a single department.
 # Project
 
 The repository contains folders for each week :
-- Week 0
-- Week 1
+- Week 0 : All the issues for the week can be found under **Issues > Milestones > Level 0**
+- Week 1 : All the issues for the week can be found under **Issues > Milestones > Level 1**
 
 Each of these folders have their separate README files describing the tasks to be accomplished as a part of the week. You are required to close issues pertaining to each week starting Week - 0.
 
