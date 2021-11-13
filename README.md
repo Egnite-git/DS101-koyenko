@@ -29,7 +29,7 @@ Each of these folders have their separate README files describing the tasks to b
 
 Make sure you check out **BADGES.md**. It describes the rules on how to win badges for your repositories.
 
-All the repositories are public and made with an intention to help you make your online profile. To add any changes to the repository, raise a ```Pull Request```. Refer Week 0 - Part 0.2 : Setup Git
+All the repositories are public and made with an intention to help you make your online profile. To add any changes to the repository, raise a ```Pull Request```. *Refer Week 0 - Part 0.2 : Setup Git*
 
 Click ```Issues``` to switch to table view or see a single department.
 
