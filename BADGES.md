@@ -28,8 +28,6 @@ These are the badges that you could win :
 
 <img src="https://badgen.net/badge/best/ux/orange?icon=sourcegraph" > If your UI isn't usable, well you can't sell your product! It not only needs to be visually appealing, but shall also be equitable, enjoyable, useful and usable! The best UX gets this reward for building something which we as users would put our bets on! </img>
 
-<img src="https://badgen.net/badge/best/ux/orange?icon=sourcegraph" > If your UI isn't usable, well you can't sell your product! It not only needs to be visually appealing, but shall also be equitable, enjoyable, useful and usable! The best UX gets this reward for building something which we as users would put our bets on! </img>
-
 <img src="https://badgen.net/badge/accuracy/80/99ff33?icon=terminal" > Rewarded for model accuracy >=80 and <90 </img>
 
 <img src="https://badgen.net/badge/accuracy/90/33cc33?icon=terminal" > Rewarded for model accuracy >90 </img>
