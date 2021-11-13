@@ -19,4 +19,18 @@ These are the badges that you could win :
 
 <img src="https://badgen.net/badge/community/guru/red?icon=discord" > Constantly engage with the community. This could be as simple as adding links to useful articles/ helping the community learn something interesting that you learnt over the week by conducting sessions. Egnite is a community driven platform and if you are someone who comes across as a community champ, well we can't help but reward you! </img>
 
-<img src="https://badgen.net/badge/blog/master/purple?icon=wiki" > Well as we said, we are a community driven platform. However, we don't want to limit you within the community boundaries. You were made to fly! So if you have learn't something new and interesting during the project course, while going through additional materials, we strongly encourage you to post blog articles about it. While some of you might get a chance to be featured on our social media handles, everyone who made an effort to write a blog gets this badge. And this badge gets added for each blog you published! </img>
+<img src="https://badgen.net/badge/demo/master/pink?icon=wiki" > Best demo of the project shall win this </img>
+
+<img src="https://badgen.net/badge/clean/coder/blue?icon=visualstudio" > Writing code is an art! Code which is not readable and maintainable does not scale! As a single developer you can achieve only so much and it takes a village to rollout awesome products. We stand by the values of the [Clean Coder](https://blog.cleancoder.com/) and reward every individual who writes well documented, readable and maintainable code! The rules are simple, break your code into classes, add documentation, use good variable names and follow what Uncle Bob says! </img>
+
+
+<img src="https://badgen.net/badge/lightning/speed/yellow?icon=bitcoin-lightning" > Performance, performance and performance! Well these are words you would hear a lot as a developer! One measure of it the speed at which your program executes! This badge of honour shall be rewarded to the ones whose code executes the fastest! </img>
+
+<img src="https://badgen.net/badge/best/ux/orange?icon=sourcegraph" > If your UI isn't usable, well you can't sell your product! It not only needs to be visually appealing, but shall also be equitable, enjoyable, useful and usable! The best UX gets this reward for building something which we as users would put our bets on! </img>
+
+<img src="https://badgen.net/badge/best/ux/orange?icon=sourcegraph" > If your UI isn't usable, well you can't sell your product! It not only needs to be visually appealing, but shall also be equitable, enjoyable, useful and usable! The best UX gets this reward for building something which we as users would put our bets on! </img>
+
+<img src="https://badgen.net/badge/accuracy/80/99ff33?icon=terminal" >Rewarded for model accuracy >=80 and <90 </img>
+
+<img src="https://badgen.net/badge/accuracy/90/33cc33?icon=terminal" >Rewarded for model accuracy >90 </img>
+
