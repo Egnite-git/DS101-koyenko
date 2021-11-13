@@ -32,6 +32,14 @@ Django is one of top web framework written in python to support the connection b
 - The below document contains different 3rd party package managers for different Operating Systems, choose the one that suits your requirement.
 - [https://github.com/git-guides/install-git](https://github.com/git-guides/install-git)
 
+- [ ]  **0.2.2 Updating the Repository**
+- To update the repository, you would need to **Fork** the repository.
+- Under the file HELLO.md, add your name.
+- After making changes create a Pull Request(PR)
+- Make sure you ping in the Discord channel/ ```Discussions``` tab and maintainers would approve your PR and close the linked issue!
+
+Now you are all set and ready for Week - 1
+
 
 # Part 0.3: (Optional) Additional Learning
 
