@@ -36,3 +36,4 @@ As a part of the bug listed in the ```issues``` tab with the same title add a co
 - [Edureka](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwja_qry5d_zAhUGBd4KHYs4DvsQtwJ6BAgFEAM&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU8m5ug9Q54M&usg=AOvVaw2jjaZOtaNbjt5Q09geS6tx) video tutorial
 - [Kaggle](https://www.kaggle.com/learn/natural-language-processing) Hands-on tutorial for basic NPL
 - [NLTK](https://www.nltk.org/api/nltk.html) Documentation
+- Write a blog post/ submit an article as a README describing your learnings and get the **BLOG-MASTER** badge attached to your README. *Refer BADGES.md*
