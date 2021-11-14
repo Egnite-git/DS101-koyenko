@@ -54,4 +54,4 @@ Now you are all set and ready for Week - 1
 - [ ]  **0.3.2 Learning Links for Django**
 - [Freecodecamp with dr. chuck - Django for Everybody](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwi984LGz9nzAhUwyDgGHb8yDZsQtwJ6BAgEEAM&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fdjango-for-everybody-learn-the-popular-python-framework-from-dr-chuck%2F&usg=AOvVaw2XE5O7o5HUbR7dnjEZ28MI)
 - [Django documentation](https://docs.djangoproject.com/en/3.2/intro/) for in-depth understanding
-- Create a blog post/ write an article as a README describing your experiences and get **BLOG-MASTER** badge attached to your README!
+- Create a blog post/ write an article as a README describing your experiences and get **BLOG-MASTER** badge attached to your README! (Refer : BADGES.md)
