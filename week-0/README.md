@@ -36,7 +36,9 @@ Django is one of top web framework written in python to support the connection b
 - To update the repository, you would need to **Fork** the repository.
 - Under the file HELLO.md, add your name.
 - After making changes create a Pull Request(PR)
-- Make sure you ping in the Discord channel/ ```Discussions``` tab and maintainers would approve your PR and close the linked issue!
+- **[IMP]** In the PR description make sure you add the issue (eg. Fixes #\<select issue from drop down\> or Resolve #\<select issue from drop down\>)
+![image](https://user-images.githubusercontent.com/22346147/141667583-fd25a07e-7d95-43aa-9c7a-1bf3abaeb9c1.png)
+- Make sure you ping in the Discord channel/ ```Discussions``` tab and maintainers would approve your PR and the linked issue closes automatically!
 - Reference [video](https://www.youtube.com/watch?v=HbSjyU2vf6Y)
 
 Now you are all set and ready for Week - 1
