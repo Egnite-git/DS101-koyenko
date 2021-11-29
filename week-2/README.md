@@ -1,12 +1,15 @@
-***Extract data attributes from RSS XML feed***
+*****Part-2*****
+
+**Extract data attributes from RSS XML feed**
 
   Extracting Data from RSS feeds is a way of web scraping, which is one of the sought-out techniques to get useful Data. There are many ways to extract data from   RSS feeds. For example, you can build your own model to extract by using Regular Expression and Beautiful Soup, or you can go with 3rd party open source libraries like Spacy, Feedparser etc. But consider the time and standard at which the data is extracted. For example, Beautiful soup typically handle with String, and Spacy with objects and Feed parser with list of dictionaries.
+  - As a part of the bug listed in the ```issues``` tab, upload the python script you have written to do this automation, also upload the data you have extracted, in any file format.
+
   
-  
-***Storing the data attributes***
+**Storing the data attributes**
 
   This in one of a diabolical situation where you have think that, if by using any Database client like MySQL or PostgreSQL will make it secure and faster access or considering the small amount of data now, flat files are enough like .TXT or .CSV . At the end choose which will make better useof the data you are implementing.
-  
+  - As a part of the bug listed in the ```issues``` tab, upload a file in docx or pdf format, which clearly explains why you chosen that particular storage system.
   
 **Learning Material**
 
