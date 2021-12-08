@@ -10,6 +10,6 @@
 - [ ] **Part 3.2: Understanding Output**
 
   With the list of Key-Phrases extracted it is better to few visualisation on how it has been mention over a specified time, through some plotting. This gives a better understanding on our data for further sentimental analysis phases  
-  - As a part of the bug listed in the ```issues``` tab, upload a file in docx or pdf format, which clearly explains why you chosen that particular storage system.
+  - As a part of the bug listed in the ```issues``` tab, upload python script which plots your visualization upon different parameters.
   
 - [ ] ###**As of from week3 no additional learning materials will be provided by us, we expect you to do some internet research like in stack overflow**
