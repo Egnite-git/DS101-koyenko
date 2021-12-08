@@ -4,7 +4,7 @@
 - [ ] **Part 3.1: Key-Phrase Extraction**
 
   Key-Phrase is a very important step for this projects, in this phase you need to extract the most re-appearing keywords from over a chosen year for the analytics. This is Unsupervised approach as we don't know much about our data to extract specific keywords. There are many matrices of evolution with many open source library which follow specific approach in this Key-Phrase Extraction, for example : TF*IDF which is one of the most popularly used matric of evaluation. This is the first NLP step done on this project, to get better results its better to do various pre-processing steps such as, stop-words removal, tokenisation, stemming etc..
-  - As a part of the bug listed in the ```issues``` tab, upload the python script you have written to do this automation, also upload the data you have extracted, in any file format.
+  - As a part of the bug listed in the ```issues``` tab, upload the python script you have written to do this automation, also upload the KeyPhrases you have extracted, in any file format.
 
   
 - [ ] **Part 3.2: Understanding Output**
