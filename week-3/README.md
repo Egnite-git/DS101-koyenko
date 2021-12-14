@@ -1,5 +1,5 @@
 
-# Part 2: First Analytics
+# Part 3: First Analytics
 
 - [ ] **Part 3.1: Key-Phrase Extraction**
 
